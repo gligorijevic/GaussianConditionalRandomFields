@@ -24,3 +24,6 @@ You can train and evaluate model(s) by running following lines in the MATLAB:
   ./mainCRFPrecipitationIterativeCRC.m
   ./mainCRFPrecipitationDirectCRC.m
 ```
+
+### Project Issues
+For any problem detected with the implementation, please file an issue on the project.
