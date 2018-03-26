@@ -26,4 +26,4 @@ You can train and evaluate model(s) by running following lines in the MATLAB:
 ```
 
 ### Project Issues
-For any problem detected with the implementation, please file an issue on the project.
+For any problems detected with the implementation, please file an issue on the project.
