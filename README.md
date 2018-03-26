@@ -16,6 +16,8 @@ Please cite the relevant paper in the abovementioned list if you use the code in
 
 ## Running the Code
 
+The train-test implementation for precipitation prediction is given for the uncertainty propagation capable model (Gligorijevic et. al. 2016) in iterative or direct approach.
+
 You can train and evaluate model(s) by running following lines in the MATLAB:
 
 ```
